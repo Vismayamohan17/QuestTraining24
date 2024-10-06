@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task5 - Word replacing\bin\Debug\Task5 - Word replacing.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task5 - Word replacing\bin\Debug\Task5 - Word replacing.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task5 - Word replacing\bin\Debug\Task5 - Word replacing.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task5 - Word replacing\obj\Debug\Task6 - Word replacing.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task5 - Word replacing\obj\Debug\Task6 - Word replacing.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task5 - Word replacing\obj\Debug\Task5 - Word replacing.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task5 - Word replacing\obj\Debug\Task5 - Word replacing.pdb

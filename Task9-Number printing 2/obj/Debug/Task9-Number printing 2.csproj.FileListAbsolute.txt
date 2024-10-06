@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task9-Number printing 2\bin\Debug\Task9-Number printing 2.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task9-Number printing 2\bin\Debug\Task9-Number printing 2.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task9-Number printing 2\bin\Debug\Task9-Number printing 2.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task9-Number printing 2\obj\Debug\Task9-Number printing 2.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task9-Number printing 2\obj\Debug\Task9-Number printing 2.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task9-Number printing 2\obj\Debug\Task9-Number printing 2.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task9-Number printing 2\obj\Debug\Task9-Number printing 2.pdb

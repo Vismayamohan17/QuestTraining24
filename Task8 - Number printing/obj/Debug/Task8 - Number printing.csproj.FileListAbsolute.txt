@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task8 - Number printing\bin\Debug\Task8 - Number printing.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task8 - Number printing\bin\Debug\Task8 - Number printing.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task8 - Number printing\bin\Debug\Task8 - Number printing.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task8 - Number printing\obj\Debug\Task8 - Number printing.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task8 - Number printing\obj\Debug\Task8 - Number printing.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task8 - Number printing\obj\Debug\Task8 - Number printing.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task8 - Number printing\obj\Debug\Task8 - Number printing.pdb
