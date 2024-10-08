@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66B201-89DD-4709-A4C2-C7EA19A58E51}|Day5 task 3\\Day5 task 3.csproj|c:\\users\\vismaya mohan\\source\\repos\\questtraining24\\day5 task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D66B201-89DD-4709-A4C2-C7EA19A58E51}|Day5 task 3\\Day5 task 3.csproj|solutionrelative:day5 task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB5CC2B-373A-45BF-A5C2-BAF8E7F0731D}|Day5 task 2\\Day5 task 2.csproj|C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\day5 task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB5CC2B-373A-45BF-A5C2-BAF8E7F0731D}|Day5 task 2\\Day5 task 2.csproj|solutionrelative:day5 task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF56715-E878-4A54-974A-541833A7AC28}|Day5 task1\\Day5 task1.csproj|C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\day5 task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF56715-E878-4A54-974A-541833A7AC28}|Day5 task1\\Day5 task1.csproj|solutionrelative:day5 task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332325E1-3EEC-49EA-8F41-BF0454232896}|Day 5.5 Dictionary\\Day 5.5 Dictionary.csproj|C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\day 5.5 dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332325E1-3EEC-49EA-8F41-BF0454232896}|Day 5.5 Dictionary\\Day 5.5 Dictionary.csproj|solutionrelative:day 5.5 dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845219E6-3757-4DAC-B809-95666ABC8975}|Day 5.4 Nested_List\\Day 5.4 Nested_List.csproj|C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\day 5.4 nested_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845219E6-3757-4DAC-B809-95666ABC8975}|Day 5.4 Nested_List\\Day 5.4 Nested_List.csproj|solutionrelative:day 5.4 nested_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B5BE26-01B3-4423-A676-73323AAAF298}|Day 5.3-List\\Day 5.3-List.csproj|C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\day 5.3-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B5BE26-01B3-4423-A676-73323AAAF298}|Day 5.3-List\\Day 5.3-List.csproj|solutionrelative:day 5.3-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E19E15-56C8-4161-A9D4-A7ACC07CD1C3}|Day5.2-Date And Time\\Day5.2-Date And Time.csproj|C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\day5.2-date and time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E19E15-56C8-4161-A9D4-A7ACC07CD1C3}|Day5.2-Date And Time\\Day5.2-Date And Time.csproj|solutionrelative:day5.2-date and time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day5 task 3\\Program.cs",
+              "RelativeDocumentMoniker": "Day5 task 3\\Program.cs",
+              "ToolTip": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day5 task 3\\Program.cs",
+              "RelativeToolTip": "Day5 task 3\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:43:40.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day5 task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Day5 task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day5 task 2\\Program.cs",
+              "RelativeToolTip": "Day5 task 2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:40:27.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day5 task1\\Program.cs",
+              "RelativeDocumentMoniker": "Day5 task1\\Program.cs",
+              "ToolTip": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day5 task1\\Program.cs",
+              "RelativeToolTip": "Day5 task1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:38:51.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day 5.5 Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Day 5.5 Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day 5.5 Dictionary\\Program.cs",
+              "RelativeToolTip": "Day 5.5 Dictionary\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:37:44.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day 5.4 Nested_List\\Program.cs",
+              "RelativeDocumentMoniker": "Day 5.4 Nested_List\\Program.cs",
+              "ToolTip": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day 5.4 Nested_List\\Program.cs",
+              "RelativeToolTip": "Day 5.4 Nested_List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:25:24.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day 5.3-List\\Program.cs",
+              "RelativeDocumentMoniker": "Day 5.3-List\\Program.cs",
+              "ToolTip": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day 5.3-List\\Program.cs",
+              "RelativeToolTip": "Day 5.3-List\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:20:15.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day5.2-Date And Time\\Program.cs",
+              "RelativeDocumentMoniker": "Day5.2-Date And Time\\Program.cs",
+              "ToolTip": "C:\\Users\\VISMAYA MOHAN\\source\\repos\\QuestTraining24\\Day5.2-Date And Time\\Program.cs",
+              "RelativeToolTip": "Day5.2-Date And Time\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:15:27.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
