@@ -1,0 +1,261 @@
+1. DDL (Data Definition Language)
+
+	DDL is a subset of SQL used to define and manage database structures, such as tables, schemas, and indexes.
+	It deals with the creation, modification, and deletion of database objects. 
+	The main DDL commands include:
+
+		CREATE: Creates a new table, view, or other database object.
+		ALTER: Modifies an existing database object (e.g., a table).
+		DROP: Deletes an existing database object.
+		TRUNCATE: Deletes all records from a table but retains its structure.
+
+2.DML (Data Manipulation Language)
+
+	DML is a subset of SQL used for managing and manipulating data stored in a database. 
+	Unlike DDL , which defines the database structure, DML focuses on operations that change the actual data within those structures. 
+	The main DML commands include:
+
+		INSERT: Adds new records to a table.
+		UPDATE: Modifies existing records in a table.
+		DELETE: Removes records from a table.
+		SELECT: Retrieves data from one or more tables.
+
+3.DCL (Data Control Language)
+
+	DCL is a subset of SQL that is used to control access to data in a database. 
+	DCL commands are primarily focused on granting or revoking permissions and rights to users and roles for various database operations. 
+	The main DCL commands include:
+
+		GRANT: Gives a user or role permission to perform specific tasks.
+		REVOKE: Removes previously granted permissions from a user or role.
+
+4.TCL (Transaction Control Language)
+	
+	TCL is a subset of SQL used to manage transactions in a database. 
+	Transactions are sequences of operations performed as a single logical unit of work.
+	TCL commands allow you to control the behavior of these transactions to ensure data integrity and consistency.
+	The main TCL commands include:
+
+		COMMIT: Saves all changes made during the current transaction to the database.
+		ROLLBACK: Undoes changes made during the current transaction if an error occurs or if the user decides to cancel the transaction.
+		SAVEPOINT: Sets a point within a transaction to which you can later roll back.
+		SET TRANSACTION: Configures the properties of a transaction (e.g., isolation level).
+
+5.DQL (Data Query Language)
+	DQL is a subset of SQL used for querying and retrieving data from a database. 
+	DQL primarily consists of the SELECT statement, which is used to specify which data you want to retrieve from one or more tables. 
+	DQL allows you to perform various operations to filter, sort, and manipulate the data returned from the database.
+
+6.SELECT
+	The SELECT statement is one of the most fundamental and commonly used commands in SQL.
+	It is part of the DQL and is used to retrieve data from one or more tables in a database.
+	The SELECT statement allows you to specify exactly which columns you want to retrieve, as well as to filter, sort, and group the results based on specific conditions.
+
+7.WHERE
+	To filter records and specify conditions for which rows should be included in the result set of a query. 
+	It allows you to select only those records that meet specific criteria, helping you retrieve more precise data from your database.
+
+8.ORDER BY 
+	The ORDER BY clause is used to sort the result set of a query based on one or more columns.
+	This clause can be applied to the results of a SELECT statement and allows you to specify the order in which the records should be returned. 
+	You can sort the results in either ascending (default) or descending order.
+
+9.INSERT INTO 
+	The INSERT INTO statement is used to add new records to a database table.
+	You can insert values into all columns or specify which columns to fill.
+	It allows for inserting multiple rows at once, making it efficient for bulk data entry.
+	Properly using this statement is essential for maintaining accurate and up-to-date data in your database.
+
+10.UPDATE
+	The UPDATE statement is used to modify existing records in a database table.
+	You can update one or multiple columns and specify conditions to control which records are updated.
+	The WHERE clause is critical for preventing unintended updates; without it, all records will be affected.
+	Proper use of the UPDATE statement is essential for maintaining data accuracy and integrity in your database.
+
+11.DELETE
+	The DELETE statement is used to remove records from a database table.
+	You can specify conditions to control which records are deleted, using the WHERE clause.
+	Omitting the WHERE clause will delete all records from the table, so use this with caution.
+	Proper use of the DELETE statement is essential to maintaining data integrity and avoiding accidental loss of important data.
+
+12.TRUNCATE
+	The TRUNCATE statement is used to quickly remove all records from a table while keeping the table structure intact.
+	It is faster than the DELETE statement because it does not log individual row deletions.
+	TRUNCATE resets any auto-increment counters on the table.
+	You cannot truncate a table that has foreign key constraints referencing it.
+
+13.Types of joins
+
+	13.1 - INNER JOIN
+			The INNER JOIN keyword selects records that have matching values in both tables.
+			If there is no match, the result set will not include those records.
+
+			SELECT columns
+			FROM table1
+			INNER JOIN table2 ON table1.column = table2.column;
+
+	13.2 - LEFT JOIN (or LEFT OUTER JOIN)
+			 The LEFT JOIN returns all records from the left table (table1), and the matched records from the right table (table2). 
+			 If there is no match, the result is NULL from the right side.
+
+			 SELECT columns
+			 FROM table1
+			 LEFT JOIN table2 ON table1.column = table2.column;
+
+	13.3 - RIGHT JOIN (or RIGHT OUTER JOIN)
+			The RIGHT JOIN is the opposite of the LEFT JOIN.
+			It returns all records from the right table (table2), and the matched records from the left table (table1). 
+			If there is no match, the result is NULL from the left side.
+
+			SELECT columns
+			FROM table1
+			RIGHT JOIN table2 ON table1.column = table2.column;
+
+	13.4 - FULL JOIN (or FULL OUTER JOIN)
+			The FULL JOIN returns all records when there is a match in either the left (table1) or right (table2) table records. 
+			If there is no match, the result will contain NULL for missing matches on either side.
+
+			SELECT columns
+			FROM table1
+			FULL JOIN table2 ON table1.column = table2.column;
+
+	13.5 - CROSS JOIN
+			The CROSS JOIN returns the Cartesian product of the two tables, meaning it will return all possible combinations of rows from both tables.
+
+			SELECT columns
+			FROM table1
+			CROSS JOIN table2;
+
+	13.6 -  SELF JOIN
+			A SELF JOIN is a regular join but the table is joined with itself.
+			It is used when you want to compare rows within the same table.
+
+			SELECT a.column, b.column
+			FROM table a, table b
+			WHERE condition;
+
+
+14.GROUP BY 
+	The GROUP BY clause is used to arrange identical data into groups.
+	This clause is often used with aggregate functions (such as COUNT, SUM, AVG, MAX, and MIN) to perform operations on each group of data. 
+	The GROUP BY clause comes after the WHERE clause but before the ORDER BY clause in a SQL statement.
+
+		SELECT column1, aggregate_function(column2)
+		FROM table_name
+		WHERE condition
+		GROUP BY column1;
+
+15.HAVING 
+	The HAVING clause is used to filter groups based on aggregate values after the GROUP BY clause.
+	It allows you to use aggregate functions in the filtering criteria.
+	The HAVING clause can be combined with multiple conditions and can be used with ORDER BY to sort the results.
+	Proper use of the HAVING clause is essential for analyzing summarized data effectively.
+
+		SELECT column1, aggregate_function(column2)
+		FROM table_name
+		WHERE condition
+		GROUP BY column1
+		HAVING aggregate_function(column2) condition;
+
+16.Aggregate Functions 
+	Aggregate functions perform calculations on a set of values and return a single summary value.
+	Common aggregate functions include COUNT, SUM, AVG, MAX, and MIN.
+	Aggregate functions can be used with the GROUP BY clause to summarize data into groups.
+	They are essential for data analysis and reporting in SQL, enabling users to derive meaningful insights from large datasets.
+
+		COUNT() - Returns the number of rows that match a specified condition.
+		SUM() - Returns the total sum of a numeric column.
+		AVG() - Returns the average value of a numeric column.
+		MAX() - Returns the maximum value in a set of values.
+		MIN() - Returns the minimum value in a set of values.
+
+17.ALTER Statement 
+	The ALTER statement is used to modify the structure of an existing table in SQL.
+	It can be used to add, modify, or drop columns, as well as add or drop constraints.
+	Common operations include ADD, MODIFY, and DROP commands for columns and constraints.
+	The ALTER statement is essential for adjusting database designs to meet changing requirements without needing to recreate tables.
+
+18.CREATE Statement 
+	The CREATE statement is used to create new database objects in SQL, including databases, tables, views, and indexes.
+	The syntax varies depending on the type of object being created.
+	It allows you to define the structure, data types, and constraints for the objects.
+	Proper use of the CREATE statement is essential for establishing the foundation of a database and organizing data effectively.
+
+19.DROP Statement
+	The DROP statement is used to delete existing database objects in SQL, including databases, tables, views, and indexes.
+	It is a permanent operation that removes the object and all associated data from the database.
+	The syntax varies depending on the type of object being dropped.
+	Care should be taken when using the DROP statement, as it cannot be undone and results in the loss of all data and structure associated with the dropped object.
+
+20.DISTINCT Keyword 
+	The DISTINCT keyword is used to retrieve unique values from a query, eliminating duplicate rows from the result set.
+	It can be applied to a single column or multiple columns.
+	The DISTINCT keyword can also be used with aggregate functions to analyze unique values in a dataset.
+	Using DISTINCT is essential when you need to analyze or present data without duplicates.
+
+21.CREATE INDEX
+	The CREATE INDEX statement in SQL Server is used to create indexes to improve query performance.
+	You can create simple indexes, composite indexes, unique indexes, and filtered indexes depending on your needs.
+	Proper indexing can significantly speed up data retrieval operations, but it's important to use them judiciously, as too many indexes can slow down INSERT, UPDATE, and DELETE operations.
+
+22.Subquery
+	A subquery (also known as a nested query or inner query) is a query embedded within another SQL query. It can be used in various clauses such as SELECT, FROM, WHERE, or HAVING. 
+	Subqueries allow you to perform operations that depend on the results of another query, making them powerful tools for data retrieval and analysis.
+
+		Types of Subqueries
+			Single-Row Subquery: Returns a single row of results.
+			Multiple-Row Subquery: Returns multiple rows of results.
+			Scalar Subquery: Returns a single value (one column and one row).
+			Correlated Subquery: References columns from the outer query and is executed for each row processed by the outer query.
+
+23.Transaction 
+	A transaction in SQL Server is a sequence of one or more SQL operations that are executed as a single unit of work. 
+	Transactions ensure data integrity by adhering to the ACID properties, which stand for:
+
+		Atomicity: Ensures that all operations within the transaction are completed successfully; if any operation fails, the entire transaction is rolled back.
+		Consistency: Ensures that the database remains in a consistent state before and after the transaction.
+		Isolation: Ensures that transactions are isolated from each other, meaning that the operations of one transaction do not affect another.
+		Durability: Ensures that once a transaction has been committed, its changes are permanent, even in the event of a system failure.
+		Transaction Control Commands
+		
+		SQL Server provides several commands to manage transactions:
+
+			BEGIN TRANSACTION: Starts a new transaction.
+			COMMIT: Saves all changes made during the transaction.
+			ROLLBACK: Undoes all changes made during the transaction.
+
+24.View
+	A view is a virtual table that represents a stored query, allowing you to simplify complex queries and manage data access.
+	Views can encapsulate logic, restrict data access for security, and sometimes allow for data updates to underlying tables.
+	View can be create using the CREATE VIEW statement and use it like a regular table in your queries.
+
+		CREATE VIEW view_name AS
+		SELECT column1, column2, ...
+		FROM table_name
+		WHERE condition;
+
+25.Functions
+	Functions in SQL Server are reusable code blocks that perform specific tasks and return values.
+	There are various types of functions, including scalar functions (return a single value) and table-valued functions (return a table).
+	Functions can be user-defined or built-in (system functions) and are helpful for modular programming and complex data manipulations.
+
+26.Triggers
+	A trigger is a special type of stored procedure that automatically executes in response to specific events on a table or view.
+	Triggers can enforce business rules, maintain data integrity, and perform logging.
+	You can create triggers for DML operations (INSERT, UPDATE, DELETE), DDL operations, and logon events.
+
+		CREATE TRIGGER trigger_name
+		ON table_name
+		AFTER|INSTEAD OF INSERT|UPDATE|DELETE
+		AS
+		BEGIN
+		-- Trigger logic
+		END;
+
+
+
+
+
+
+
+
