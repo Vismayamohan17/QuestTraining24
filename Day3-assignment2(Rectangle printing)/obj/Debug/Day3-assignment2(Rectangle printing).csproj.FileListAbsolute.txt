@@ -1,7 +1,0 @@
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-assignment2(Rectangle printing)\bin\Debug\Day3-assignment2(Rectangle printing).exe.config
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-assignment2(Rectangle printing)\bin\Debug\Day3-assignment2(Rectangle printing).exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-assignment2(Rectangle printing)\bin\Debug\Day3-assignment2(Rectangle printing).pdb
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-assignment2(Rectangle printing)\obj\Debug\Day3-assignment2(Rectangle printing).csproj.AssemblyReference.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-assignment2(Rectangle printing)\obj\Debug\Day3-assignment2(Rectangle printing).csproj.CoreCompileInputs.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-assignment2(Rectangle printing)\obj\Debug\Day3-assignment2(Rectangle printing).exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-assignment2(Rectangle printing)\obj\Debug\Day3-assignment2(Rectangle printing).pdb

@@ -1,7 +1,0 @@
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-Switch Case\bin\Debug\Day3-Switch Case.exe.config
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-Switch Case\bin\Debug\Day3-Switch Case.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-Switch Case\bin\Debug\Day3-Switch Case.pdb
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-Switch Case\obj\Debug\Day3-Switch Case.csproj.AssemblyReference.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-Switch Case\obj\Debug\Day3-Switch Case.csproj.CoreCompileInputs.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-Switch Case\obj\Debug\Day3-Switch Case.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day3-Switch Case\obj\Debug\Day3-Switch Case.pdb

@@ -1,7 +1,0 @@
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 5.5 Dictionary\bin\Debug\Day 5.5 Dictionary.exe.config
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 5.5 Dictionary\bin\Debug\Day 5.5 Dictionary.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 5.5 Dictionary\bin\Debug\Day 5.5 Dictionary.pdb
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 5.5 Dictionary\obj\Debug\Day 5.5 Dictionary.csproj.AssemblyReference.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 5.5 Dictionary\obj\Debug\Day 5.5 Dictionary.csproj.CoreCompileInputs.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 5.5 Dictionary\obj\Debug\Day 5.5 Dictionary.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 5.5 Dictionary\obj\Debug\Day 5.5 Dictionary.pdb

@@ -1,7 +1,0 @@
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task1-Natural numbers\bin\Debug\Task1-Natural numbers.exe.config
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task1-Natural numbers\bin\Debug\Task1-Natural numbers.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task1-Natural numbers\bin\Debug\Task1-Natural numbers.pdb
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task1-Natural numbers\obj\Debug\Task1-Natural numbers.csproj.AssemblyReference.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task1-Natural numbers\obj\Debug\Task1-Natural numbers.csproj.CoreCompileInputs.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task1-Natural numbers\obj\Debug\Task1-Natural numbers.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task1-Natural numbers\obj\Debug\Task1-Natural numbers.pdb

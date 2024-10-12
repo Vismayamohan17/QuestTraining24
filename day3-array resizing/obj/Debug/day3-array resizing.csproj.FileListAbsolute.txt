@@ -1,7 +1,0 @@
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\day3-array resizing\bin\Debug\day3-array resizing.exe.config
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\day3-array resizing\bin\Debug\day3-array resizing.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\day3-array resizing\bin\Debug\day3-array resizing.pdb
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\day3-array resizing\obj\Debug\day3-array resizing.csproj.AssemblyReference.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\day3-array resizing\obj\Debug\day3-array resizing.csproj.CoreCompileInputs.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\day3-array resizing\obj\Debug\day3-array resizing.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\day3-array resizing\obj\Debug\day3-array resizing.pdb

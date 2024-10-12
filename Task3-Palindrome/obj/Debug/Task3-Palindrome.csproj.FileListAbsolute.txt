@@ -1,7 +1,0 @@
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task3-Palindrome\obj\Debug\Task3-Palindrome.csproj.AssemblyReference.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task3-Palindrome\obj\Debug\Task3-Palindrome.csproj.CoreCompileInputs.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task3-Palindrome\bin\Debug\Task3-Palindrome.exe.config
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task3-Palindrome\bin\Debug\Task3-Palindrome.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task3-Palindrome\bin\Debug\Task3-Palindrome.pdb
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task3-Palindrome\obj\Debug\Task3-Palindrome.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task3-Palindrome\obj\Debug\Task3-Palindrome.pdb

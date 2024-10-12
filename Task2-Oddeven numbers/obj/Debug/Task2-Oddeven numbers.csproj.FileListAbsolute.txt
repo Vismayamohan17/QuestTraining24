@@ -1,7 +1,0 @@
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task2-Oddeven numbers\bin\Debug\Task2-Oddeven numbers.exe.config
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task2-Oddeven numbers\bin\Debug\Task2-Oddeven numbers.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task2-Oddeven numbers\bin\Debug\Task2-Oddeven numbers.pdb
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task2-Oddeven numbers\obj\Debug\Task2-Oddeven numbers.csproj.AssemblyReference.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task2-Oddeven numbers\obj\Debug\Task2-Oddeven numbers.csproj.CoreCompileInputs.cache
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task2-Oddeven numbers\obj\Debug\Task2-Oddeven numbers.exe
-C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Task2-Oddeven numbers\obj\Debug\Task2-Oddeven numbers.pdb
