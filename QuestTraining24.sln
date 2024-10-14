@@ -77,6 +77,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assessment 1", "Assessment 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagementSystem", "HospitalManagementSystem\HospitalManagementSystem.csproj", "{661CB7FC-7A47-4BF3-81CF-54530CAFA662}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "Assessment\Assessment 1\Test1\Test1.csproj", "{B93C43CF-DC0A-418E-B78B-7138A613AC16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{661CB7FC-7A47-4BF3-81CF-54530CAFA662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{661CB7FC-7A47-4BF3-81CF-54530CAFA662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{661CB7FC-7A47-4BF3-81CF-54530CAFA662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93C43CF-DC0A-418E-B78B-7138A613AC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93C43CF-DC0A-418E-B78B-7138A613AC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93C43CF-DC0A-418E-B78B-7138A613AC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93C43CF-DC0A-418E-B78B-7138A613AC16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -236,6 +242,7 @@ Global
 		{D7C991A2-8E08-4C0D-8378-420209E78B7C} = {6076A9D8-B896-45E7-9E40-3A27B424E09E}
 		{94CCDC3B-AF2E-448D-B590-A5E1C9DF8C73} = {05698DC1-37CD-4F9D-BB1D-994843F547D2}
 		{661CB7FC-7A47-4BF3-81CF-54530CAFA662} = {94CCDC3B-AF2E-448D-B590-A5E1C9DF8C73}
+		{B93C43CF-DC0A-418E-B78B-7138A613AC16} = {94CCDC3B-AF2E-448D-B590-A5E1C9DF8C73}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ECCC6470-82B9-4366-A25D-187FE672BB0C}
