@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
