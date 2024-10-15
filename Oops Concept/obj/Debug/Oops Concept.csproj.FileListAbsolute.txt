@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Oops Concept\bin\Debug\Oops Concept.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Oops Concept\bin\Debug\Oops Concept.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Oops Concept\bin\Debug\Oops Concept.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Oops Concept\obj\Debug\Oops Concept.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Oops Concept\obj\Debug\Oops Concept.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Oops Concept\obj\Debug\Oops Concept.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Oops Concept\obj\Debug\Oops Concept.pdb

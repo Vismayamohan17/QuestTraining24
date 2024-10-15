@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day11-Task4\obj\Debug\Day11-Task4.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day11-Task4\obj\Debug\Day11-Task4.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day11-Task4\bin\Debug\Day11-Task4.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day11-Task4\bin\Debug\Day11-Task4.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day11-Task4\bin\Debug\Day11-Task4.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day11-Task4\obj\Debug\Day11-Task4.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day11-Task4\obj\Debug\Day11-Task4.pdb
