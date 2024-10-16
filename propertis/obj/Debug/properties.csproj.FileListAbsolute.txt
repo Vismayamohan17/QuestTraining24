@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\propertis\bin\Debug\propertis.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\propertis\bin\Debug\propertis.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\propertis\bin\Debug\propertis.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\propertis\obj\Debug\properties.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\propertis\obj\Debug\properties.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\propertis\obj\Debug\propertis.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\propertis\obj\Debug\propertis.pdb
