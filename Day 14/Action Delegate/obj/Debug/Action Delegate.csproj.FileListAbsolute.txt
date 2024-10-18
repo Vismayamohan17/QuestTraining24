@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Action Delegate\bin\Debug\Action Delegate.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Action Delegate\bin\Debug\Action Delegate.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Action Delegate\bin\Debug\Action Delegate.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Action Delegate\obj\Debug\Action Delegate.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Action Delegate\obj\Debug\Action Delegate.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Action Delegate\obj\Debug\Action Delegate.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Action Delegate\obj\Debug\Action Delegate.pdb

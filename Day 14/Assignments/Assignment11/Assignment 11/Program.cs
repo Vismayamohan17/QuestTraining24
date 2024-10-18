@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Assignment_11
+{
+    internal class Program
+    {
+        static bool IsEven(int n) => n % 2 == 0;
+        static void Main(string[] args)
+        {
+            Func<int, bool> a = IsEven;
+            Predicate<int> b = IsEven;
+
+            var res = a(1);
+            var res2 = b(2);
+
+            Console.WriteLine(res);
+            Console.WriteLine(res2);
+        }
+    }
+}

@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\TaskDelegate\bin\Debug\TaskDelegate.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\TaskDelegate\bin\Debug\TaskDelegate.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\TaskDelegate\bin\Debug\TaskDelegate.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\TaskDelegate\obj\Debug\TaskDelegate.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\TaskDelegate\obj\Debug\TaskDelegate.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\TaskDelegate\obj\Debug\TaskDelegate.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\TaskDelegate\obj\Debug\TaskDelegate.pdb

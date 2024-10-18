@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\CheckinguUingPredicate\bin\Debug\CheckinguUingPredicate.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\CheckinguUingPredicate\bin\Debug\CheckinguUingPredicate.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\CheckinguUingPredicate\bin\Debug\CheckinguUingPredicate.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\CheckinguUingPredicate\obj\Debug\CheckinguUingPredicate.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\CheckinguUingPredicate\obj\Debug\CheckinguUingPredicate.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\CheckinguUingPredicate\obj\Debug\CheckinguUingPredicate.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\CheckinguUingPredicate\obj\Debug\CheckinguUingPredicate.pdb

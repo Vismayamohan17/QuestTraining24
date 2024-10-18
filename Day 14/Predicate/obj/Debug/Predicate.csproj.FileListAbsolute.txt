@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Predicate\bin\Debug\Predicate.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Predicate\bin\Debug\Predicate.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Predicate\bin\Debug\Predicate.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Predicate\obj\Debug\Predicate.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Predicate\obj\Debug\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Predicate\obj\Debug\Predicate.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Predicate\obj\Debug\Predicate.pdb

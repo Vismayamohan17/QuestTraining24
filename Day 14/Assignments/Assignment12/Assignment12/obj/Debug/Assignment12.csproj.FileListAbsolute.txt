@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Assignments\Assignment12\Assignment12\bin\Debug\Assignment12.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Assignments\Assignment12\Assignment12\bin\Debug\Assignment12.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Assignments\Assignment12\Assignment12\bin\Debug\Assignment12.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Assignments\Assignment12\Assignment12\obj\Debug\Assignment12.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Assignments\Assignment12\Assignment12\obj\Debug\Assignment12.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Assignments\Assignment12\Assignment12\obj\Debug\Assignment12.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 14\Assignments\Assignment12\Assignment12\obj\Debug\Assignment12.pdb
