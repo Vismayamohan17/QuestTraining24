@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\LINQ task 1\bin\Debug\LINQ task 1.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\LINQ task 1\bin\Debug\LINQ task 1.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\LINQ task 1\bin\Debug\LINQ task 1.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\LINQ task 1\obj\Debug\LINQ task 1.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\LINQ task 1\obj\Debug\LINQ task 1.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\LINQ task 1\obj\Debug\LINQ task 1.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\LINQ task 1\obj\Debug\LINQ task 1.pdb

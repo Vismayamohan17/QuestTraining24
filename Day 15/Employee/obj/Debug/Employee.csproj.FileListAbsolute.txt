@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\Employee\bin\Debug\Employee.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\Employee\bin\Debug\Employee.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\Employee\bin\Debug\Employee.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\Employee\obj\Debug\Employee.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 15\Employee\obj\Debug\Employee.pdb
