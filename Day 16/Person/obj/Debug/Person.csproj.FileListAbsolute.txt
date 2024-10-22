@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 16\Person\bin\Debug\Person.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 16\Person\bin\Debug\Person.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 16\Person\bin\Debug\Person.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 16\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 16\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 16\Person\obj\Debug\Person.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 16\Person\obj\Debug\Person.pdb
