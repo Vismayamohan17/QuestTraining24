@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Sample\bin\Debug\Sample.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Sample\bin\Debug\Sample.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Sample\bin\Debug\Sample.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Sample\obj\Debug\Sample.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Sample\obj\Debug\Sample.pdb

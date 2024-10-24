@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Index\bin\Debug\Index.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Index\bin\Debug\Index.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Index\bin\Debug\Index.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Index\obj\Debug\Index.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Index\obj\Debug\Index.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Index\obj\Debug\Index.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Index\obj\Debug\Index.pdb

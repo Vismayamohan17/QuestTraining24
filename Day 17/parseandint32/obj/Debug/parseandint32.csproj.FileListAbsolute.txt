@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\parseandint32\bin\Debug\parseandint32.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\parseandint32\bin\Debug\parseandint32.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\parseandint32\bin\Debug\parseandint32.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\parseandint32\obj\Debug\parseandint32.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\parseandint32\obj\Debug\parseandint32.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\parseandint32\obj\Debug\parseandint32.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\parseandint32\obj\Debug\parseandint32.pdb

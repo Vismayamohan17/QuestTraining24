@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\String trim\bin\Debug\String trim.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\String trim\bin\Debug\String trim.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\String trim\bin\Debug\String trim.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\String trim\obj\Debug\String trim.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\String trim\obj\Debug\String trim.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\String trim\obj\Debug\String trim.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\String trim\obj\Debug\String trim.pdb

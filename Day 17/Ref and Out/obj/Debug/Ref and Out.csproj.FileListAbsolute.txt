@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Ref and Out\bin\Debug\Ref and Out.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Ref and Out\bin\Debug\Ref and Out.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Ref and Out\bin\Debug\Ref and Out.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Ref and Out\obj\Debug\Ref and Out.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Ref and Out\obj\Debug\Ref and Out.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Ref and Out\obj\Debug\Ref and Out.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Ref and Out\obj\Debug\Ref and Out.pdb

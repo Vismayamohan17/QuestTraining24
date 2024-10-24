@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Error Handling\bin\Debug\Error Handling.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Error Handling\bin\Debug\Error Handling.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Error Handling\bin\Debug\Error Handling.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Error Handling\obj\Debug\Error Handling.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Error Handling\obj\Debug\Error Handling.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Error Handling\obj\Debug\Error Handling.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 17\Error Handling\obj\Debug\Error Handling.pdb
