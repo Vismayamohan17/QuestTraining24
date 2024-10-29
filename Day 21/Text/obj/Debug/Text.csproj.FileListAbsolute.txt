@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Text\bin\Debug\Text.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Text\bin\Debug\Text.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Text\bin\Debug\Text.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Text\obj\Debug\Text.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Text\obj\Debug\Text.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Text\obj\Debug\Text.pdb

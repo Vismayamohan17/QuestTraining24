@@ -142,7 +142,7 @@ namespace Sample
                         Name VARCHAR(100) NOT NULL,
                         Specialization VARCHAR(100) NOT NULL,
                         PatientId INT NULL,
-                        FOREIGN KEY (PatientId) REFERENCES Patients(PatientId)
+                        FOREIGN KEY (PatientId) REFERENCES Patients(Id)
                     )";
 
             using (var connection1 = new SqlConnection(connStr))
@@ -163,13 +163,13 @@ namespace Sample
                 command1.Parameters.AddWithValue("@PatientId", doctor.PatientId);
 
                 connection1.Open();
-                command1.BeginExecuteNonQuery();
+                command1.ExecuteNonQuery();
             }
         }
 
         public Doctor DisplayDetails(string input)
         {
-            string query = "SELECT * FROM Doctors WHERE Name = @Input OR Id = @Id";
+            string query = "SELECT * FROM Doctors WHERE Name = @Input";
             using (var connection1 = new SqlConnection(connStr))
             {
                 SqlCommand command1 = new SqlCommand(query, connection1);
@@ -195,7 +195,7 @@ namespace Sample
 
         public void UpdateDoctor(Doctor doctor)
         {
-            string query = "UPDATE Doctors SET Name = @Name, Specialization = @Specialization, WHERE Id = @Id";
+            string query = "UPDATE Doctors SET Name = @Name, Specialization = @Specialization WHERE Id = @Id";
             using (var connection1 = new SqlConnection(connStr))
             {
                 SqlCommand command1 = new SqlCommand(query, connection1);

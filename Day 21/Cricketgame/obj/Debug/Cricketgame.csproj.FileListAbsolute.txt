@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Cricketgame\bin\Debug\Cricketgame.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Cricketgame\bin\Debug\Cricketgame.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Cricketgame\bin\Debug\Cricketgame.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Cricketgame\obj\Debug\Cricketgame.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Cricketgame\obj\Debug\Cricketgame.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Cricketgame\obj\Debug\Cricketgame.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 21\Cricketgame\obj\Debug\Cricketgame.pdb

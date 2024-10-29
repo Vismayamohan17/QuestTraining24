@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Assessment\Assessment2\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Assessment\Assessment2\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Assessment\Assessment2\PatientManagementSystem\bin\Debug\PatientManagementSystem.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Assessment\Assessment2\PatientManagementSystem\obj\Debug\PatientManagementSystem.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Assessment\Assessment2\PatientManagementSystem\obj\Debug\PatientManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Assessment\Assessment2\PatientManagementSystem\obj\Debug\PatientManagementSystem.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Assessment\Assessment2\PatientManagementSystem\obj\Debug\PatientManagementSystem.pdb
