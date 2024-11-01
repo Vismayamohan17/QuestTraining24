@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Ecoserver client\bin\Debug\Ecoserver client.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Ecoserver client\bin\Debug\Ecoserver client.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Ecoserver client\bin\Debug\Ecoserver client.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Ecoserver client\obj\Debug\Ecoserver client.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Ecoserver client\obj\Debug\Ecoserver client.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Ecoserver client\obj\Debug\Ecoserver client.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Ecoserver client\obj\Debug\Ecoserver client.pdb

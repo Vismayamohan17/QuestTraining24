@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Echousingclienbuilder\bin\Debug\Echousingclienbuilder.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Echousingclienbuilder\bin\Debug\Echousingclienbuilder.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Echousingclienbuilder\bin\Debug\Echousingclienbuilder.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Echousingclienbuilder\obj\Debug\Echousingclienbuilder.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Echousingclienbuilder\obj\Debug\Echousingclienbuilder.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Echousingclienbuilder\obj\Debug\Echousingclienbuilder.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\Ecoserver\Echousingclienbuilder\obj\Debug\Echousingclienbuilder.pdb

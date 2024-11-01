@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\socketprogrammingclient\bin\Debug\socketprogrammingclient.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\socketprogrammingclient\bin\Debug\socketprogrammingclient.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\socketprogrammingclient\bin\Debug\socketprogrammingclient.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\socketprogrammingclient\obj\Debug\socketprogrammingclient.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\socketprogrammingclient\obj\Debug\socketprogrammingclient.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\socketprogrammingclient\obj\Debug\socketprogrammingclient.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 23\socketprogrammingclient\obj\Debug\socketprogrammingclient.pdb
