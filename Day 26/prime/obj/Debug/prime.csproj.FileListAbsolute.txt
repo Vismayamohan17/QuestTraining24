@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\prime\bin\Debug\prime.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\prime\bin\Debug\prime.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\prime\bin\Debug\prime.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\prime\obj\Debug\prime.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\prime\obj\Debug\prime.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\prime\obj\Debug\prime.pdb

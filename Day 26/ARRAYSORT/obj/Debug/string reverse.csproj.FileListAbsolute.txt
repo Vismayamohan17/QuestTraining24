@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\ARRAYSORT\bin\Debug\ARRAYSORT.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\ARRAYSORT\bin\Debug\ARRAYSORT.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\ARRAYSORT\bin\Debug\ARRAYSORT.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\ARRAYSORT\obj\Debug\string reverse.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\ARRAYSORT\obj\Debug\string reverse.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\ARRAYSORT\obj\Debug\ARRAYSORT.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\ARRAYSORT\obj\Debug\ARRAYSORT.pdb

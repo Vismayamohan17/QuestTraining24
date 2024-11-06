@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\copyconstructor\bin\Debug\copyconstructor.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\copyconstructor\bin\Debug\copyconstructor.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\copyconstructor\bin\Debug\copyconstructor.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\copyconstructor\obj\Debug\copyconstructor.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\copyconstructor\obj\Debug\copyconstructor.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\copyconstructor\obj\Debug\copyconstructor.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\copyconstructor\obj\Debug\copyconstructor.pdb

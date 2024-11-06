@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Indexer\bin\Debug\Indexer.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Indexer\bin\Debug\Indexer.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Indexer\obj\Debug\Indexer.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Indexer\obj\Debug\Indexer.pdb

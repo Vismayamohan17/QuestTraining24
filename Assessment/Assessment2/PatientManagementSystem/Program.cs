@@ -70,7 +70,7 @@ namespace Sample
 
         public Patient DisplayDetails(string input)
         {
-            string query = "SELECT * FROM Patients WHERE Name = @Input";
+            string query = "SELECT * FROM  WHERE Name = @Input";
             using (var connection = new SqlConnection(connStr))
             {
                 SqlCommand command = new SqlCommand(query, connection);

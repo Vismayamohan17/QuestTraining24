@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 24\enumdata\bin\Debug\enumdata.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 24\enumdata\bin\Debug\enumdata.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 24\enumdata\bin\Debug\enumdata.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 24\enumdata\obj\Debug\enumdata.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 24\enumdata\obj\Debug\enumdata.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 24\enumdata\obj\Debug\enumdata.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 24\enumdata\obj\Debug\enumdata.pdb

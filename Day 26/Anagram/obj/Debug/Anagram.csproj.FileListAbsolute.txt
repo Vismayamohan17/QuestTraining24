@@ -1,0 +1,7 @@
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Anagram\bin\Debug\Anagram.exe.config
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Anagram\bin\Debug\Anagram.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Anagram\bin\Debug\Anagram.pdb
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Anagram\obj\Debug\Anagram.csproj.AssemblyReference.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Anagram\obj\Debug\Anagram.exe
+C:\Users\VISMAYA MOHAN\source\repos\QuestTraining24\Day 26\Anagram\obj\Debug\Anagram.pdb
